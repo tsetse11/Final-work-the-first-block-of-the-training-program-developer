@@ -44,7 +44,6 @@ string[] ReleaseArray(string[] array)
         }
     }
     string[] newArray = new string[count];
-
     int k = 0;
     for (int i = 0; i < array.Length; i++)
     {
